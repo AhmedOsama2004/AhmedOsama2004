@@ -9,7 +9,7 @@ I am a Cybersecurity professional specializing in Blue Team operations, SIEM arc
 * **Concepts:** MITRE ATT&CK Framework, Incident Response, Log Analysis
 
 ## 🚀 Featured Project
-**[Hybrid SIEM Architecture & ChatOps Ticketing Lab]([https://github.com/AhmedOsama2004/Hybrid-SIEM-ChatOps-Lab](https://github.com/AhmedOsama2004/Hybrid-SIEM-ChatOps-Lab))** *(Make sure this link matches your actual project repo URL once you make it!)*
+**[Hybrid SIEM Architecture & ChatOps Ticketing Lab](https://github.com/AhmedOsama2004/Hybrid-SIEM-ChatOps-Lab)**
 * Architected a complete SOC environment monitoring Windows 10 and a DVWA web server.
 * Wrote custom detection rules mapped to MITRE ATT&CK for Ransomware, Credential Dumping, and SQLi.
 * Engineered an automated alerting pipeline to push high-severity incidents directly to Discord.
