@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Osama 👋 🛡️
 
-<!--
-**AhmedOsama2004/AhmedOsama2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cybersecurity professional specializing in Blue Team operations, SIEM architecture, and Detection Engineering. I build home labs to simulate real-world attacks and engineer automated defensive pipelines.
 
-Here are some ideas to get you started:
+## 🛠️ My Toolbelt & Skills
+* **SIEM & EDR:** Wazuh, Microsoft Sysmon
+* **Offensive/Defensive Tools:** DVWA, Burp Suite, Nmap, PowerShell
+* **Automation & ChatOps:** Discord Webhooks, Bash/Python Scripting
+* **Concepts:** MITRE ATT&CK Framework, Incident Response, Log Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+**[Hybrid SIEM Architecture & ChatOps Ticketing Lab](https://github.com/AhmedOsama2004/Hybrid-SIEM-ChatOps-Lab)** *(Make sure this link matches your actual project repo URL once you make it!)*
+* Architected a complete SOC environment monitoring Windows 10 and a DVWA web server.
+* Wrote custom detection rules mapped to MITRE ATT&CK for Ransomware, Credential Dumping, and SQLi.
+* Engineered an automated alerting pipeline to push high-severity incidents directly to Discord.
+
+## 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/ahmed-osama311](https://www.linkedin.com/in/ahmed-osama311/)
+* **Email:** [wwwosos64@gmail.com](mailto:wwwosos64@gmail.com)
